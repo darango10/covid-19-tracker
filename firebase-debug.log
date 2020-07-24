@@ -1,0 +1,120 @@
+[debug] [2020-07-24T03:58:45.946Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:58:45.948Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T03:58:45.948Z] CLI Version:   8.6.0
+[debug] [2020-07-24T03:58:45.948Z] Platform:      win32
+[debug] [2020-07-24T03:58:45.948Z] Node Version:  v14.2.0
+[debug] [2020-07-24T03:58:45.950Z] Time:          Thu Jul 23 2020 22:58:45 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T03:58:45.950Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:58:45.950Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T03:59:37.329Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:37.331Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T03:59:37.331Z] CLI Version:   8.6.0
+[debug] [2020-07-24T03:59:37.331Z] Platform:      win32
+[debug] [2020-07-24T03:59:37.331Z] Node Version:  v14.2.0
+[debug] [2020-07-24T03:59:37.333Z] Time:          Thu Jul 23 2020 22:59:37 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T03:59:37.333Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:37.333Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T03:59:52.504Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:52.506Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T03:59:52.507Z] CLI Version:   8.6.0
+[debug] [2020-07-24T03:59:52.507Z] Platform:      win32
+[debug] [2020-07-24T03:59:52.507Z] Node Version:  v14.2.0
+[debug] [2020-07-24T03:59:52.508Z] Time:          Thu Jul 23 2020 22:59:52 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T03:59:52.509Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:52.509Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T03:59:59.583Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:59.584Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T03:59:59.585Z] CLI Version:   8.6.0
+[debug] [2020-07-24T03:59:59.585Z] Platform:      win32
+[debug] [2020-07-24T03:59:59.585Z] Node Version:  v14.2.0
+[debug] [2020-07-24T03:59:59.586Z] Time:          Thu Jul 23 2020 22:59:59 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T03:59:59.586Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T03:59:59.586Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:00:05.217Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:00:05.218Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:00:05.219Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:00:05.219Z] Platform:      win32
+[debug] [2020-07-24T04:00:05.219Z] Node Version:  v14.2.0
+[debug] [2020-07-24T04:00:05.220Z] Time:          Thu Jul 23 2020 23:00:05 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:00:05.221Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:00:05.221Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:00:08.051Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:00:08.053Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:00:08.053Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:00:08.053Z] Platform:      win32
+[debug] [2020-07-24T04:00:08.054Z] Node Version:  v14.2.0
+[debug] [2020-07-24T04:00:08.055Z] Time:          Thu Jul 23 2020 23:00:08 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:00:08.055Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:00:08.055Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:01:15.830Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:01:15.832Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:01:15.833Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:01:15.833Z] Platform:      win32
+[debug] [2020-07-24T04:01:15.833Z] Node Version:  v14.2.0
+[debug] [2020-07-24T04:01:15.834Z] Time:          Thu Jul 23 2020 23:01:15 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:01:15.834Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:01:15.835Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:01:38.842Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:01:38.844Z] Command:       C:\Users\arang\Desktop\React\covid-19-tracker\node_modules\node\bin\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:01:38.845Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:01:38.845Z] Platform:      win32
+[debug] [2020-07-24T04:01:38.845Z] Node Version:  v14.5.0
+[debug] [2020-07-24T04:01:38.846Z] Time:          Thu Jul 23 2020 23:01:38 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:01:38.847Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:01:38.847Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:02:26.372Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:02:26.374Z] Command:       C:\Users\arang\Desktop\React\covid-19-tracker\node_modules\node\bin\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:02:26.374Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:02:26.374Z] Platform:      win32
+[debug] [2020-07-24T04:02:26.375Z] Node Version:  v14.5.0
+[debug] [2020-07-24T04:02:26.377Z] Time:          Thu Jul 23 2020 23:02:26 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:02:26.377Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:02:26.377Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:02:44.474Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:02:44.476Z] Command:       C:\Users\arang\Desktop\React\covid-19-tracker\node_modules\node\bin\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:02:44.476Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:02:44.476Z] Platform:      win32
+[debug] [2020-07-24T04:02:44.476Z] Node Version:  v14.5.0
+[debug] [2020-07-24T04:02:44.478Z] Time:          Thu Jul 23 2020 23:02:44 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:02:44.478Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:02:44.479Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:03:44.116Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:03:44.118Z] Command:       C:\Users\arang\Desktop\React\covid-19-tracker\node_modules\node\bin\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:03:44.118Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:03:44.118Z] Platform:      win32
+[debug] [2020-07-24T04:03:44.118Z] Node Version:  v14.5.0
+[debug] [2020-07-24T04:03:44.120Z] Time:          Thu Jul 23 2020 23:03:44 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:03:44.120Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:03:44.120Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2020-07-24T04:05:59.207Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:05:59.211Z] Command:       C:\Users\arang\Desktop\React\covid-19-tracker\node_modules\node\bin\node.exe C:\Users\arang\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-07-24T04:05:59.212Z] CLI Version:   8.6.0
+[debug] [2020-07-24T04:05:59.212Z] Platform:      win32
+[debug] [2020-07-24T04:05:59.212Z] Node Version:  v14.5.0
+[debug] [2020-07-24T04:05:59.218Z] Time:          Thu Jul 23 2020 23:05:59 GMT-0500 (hora estándar de Colombia)
+[debug] [2020-07-24T04:05:59.218Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T04:05:59.219Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 

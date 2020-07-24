@@ -77,7 +77,7 @@ const LineGraph = ({casesType = 'cases'}) => {
                         return response.json()
                     })
                     .then(data => {
-                        let chartData = buildChartData(data, 'cases')
+                        let chartData = buildChartData(data, casesType)
                         setData(chartData)
                     })
             }
@@ -87,8 +87,7 @@ const LineGraph = ({casesType = 'cases'}) => {
 
 
         return (
-            <div style={{height:'150px'}}>
-                <h1>I'm a graph</h1>
+            <div style={{height:'240px'}}>
                 {data?.length>0 &&(
                     <Line
                         options={options}
