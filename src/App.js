@@ -58,7 +58,7 @@ function App() {
         const countryCode = e.target.value
 
 
-        const url = countryCode === 'worldwide' ? 'https://disease.sh/v3/covid-19/all' : `https://disease.sh/v3/covid-19/countries/${countryCode}`
+        const url = countryCode === 'worldwide' ? 'https://disease.sh/v3/covid-19/all' : `https://disease.sh/v3/covid-19/countries/${countryCode}?yesterday=true&strict=true`
 
         await fetch(url)
             .then(res => res.json())
